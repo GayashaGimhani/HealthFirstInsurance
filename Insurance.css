@@ -80,6 +80,10 @@ hr{
     border-bottom: 3px solid black;
 }
 
+.content-container{
+
+    min-height: 80vh;
+}
 .button{
 
     float: right;
@@ -178,14 +182,14 @@ button:active{
 
 .footer{
     margin-top: auto;
-    margin-bottom: 0%;
+    margin-bottom: 0px;
     border: 3px solid black;
     height: 80px;
     background-color: #abf0d0;
     height: 90px;
     clear: both; /* Make sure footer doesn't overlap */
-    position: relative; /* Ensures it's positioned after the content */
-    bottom: 0;
+    position:sticky; /* Ensures it's positioned after the content */
+    
 }
 
 .fa-facebook{
