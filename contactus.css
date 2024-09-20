@@ -1,0 +1,75 @@
+.th1{
+	text-align:center;
+	font-style:bold;
+	font-size:60px;
+}
+
+
+.divleft{
+	float:left;
+	margin:10%;
+	margin-right:20%;
+	margin-top:5%;
+}
+
+.divright{
+	
+	margin-top:40%;
+	float:right;
+	margin:10%;
+	
+}
+
+p{
+	font-style:bold;
+	font-size:20px;
+}
+
+fieldset{
+	box-shadow:0 5px 10px black;
+	background-color:#B2BEB5;
+	width:40%;
+	}
+	
+label{
+	width:30%;
+	display:inline-block;
+}	
+
+input[type="submit"]{
+	margin-left:45%;
+	margin-bottom:5%;
+	font-style:bold;
+	padding:1%;
+	color:green;
+}
+#sdiv{
+	text-align:center;
+	
+}
+/*style for social links*/
+
+.fa-brands{
+	font-size:30px;
+	padding:2%
+}
+.fa-facebook{
+	color:blue;
+	
+}
+.fa-linkedin{
+	
+	color:blue;
+	
+}
+.fa-whatsapp{
+	color:green;
+	}
+
+	.fa-square-instagram
+{
+	
+	color:#c13584;
+	
+}
+
