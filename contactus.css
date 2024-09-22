@@ -41,35 +41,17 @@ input[type="submit"]{
 	margin-bottom:5%;
 	font-style:bold;
 	padding:1%;
-	color:green;
+	background-color:#90EE90;
 }
+/*style for social links
 #sdiv{
 	text-align:center;
 	
 }
-/*style for social links*/
 
-.fa-brands{
+
+#sdiv fa-brands{
 	font-size:30px;
 	padding:2%
 }
-.fa-facebook{
-	color:blue;
-	
-}
-.fa-linkedin{
-	
-	color:blue;
-	
-}
-.fa-whatsapp{
-	color:green;
-	}
-
-	.fa-square-instagram
-{
-	
-	color:#c13584;
-	
-}
-
+*/

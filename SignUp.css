@@ -1,25 +1,20 @@
-#{
-	margin:0px;
-	padding:0px;
-	box-sizing:border-box;
-	font-family="Poppins",sans-serif;
-}
+
 
 .Containers{
 	
 	width:400px;
-	
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	font-family:"Poppins",sans-serif;
 	padding:2rem 5 rem;
 	margin:50px auto;
-	background-color:green;
+	background-color:#B2BEB5;
 	border-radius:20px;
 	text-align:center;
-	box-shadow:5px 15px 15px black;
+	box-shadow:5px 15px 15px rgb(79, 77, 77);
 }
-input{
-	
-	
-}
+
 #fname,#Email,#userName,#pwd,#cpwd{
 	width:300px;
 }
@@ -38,7 +33,7 @@ input{
 
 /*style for sign up btn and cancel*/
 #signup,#cancel{
-	background-color:#00ff00;
+	background-color:#90EE90;
 	margin-bottom:20px;
 	width:25%;
 	font-size:15px;
@@ -66,17 +61,7 @@ input{
 .gglebtn{
 	background-color: #dd4b39;
 	width:250px;
-	
-  color: white;
+	color: white;
  
 }
-/*style for sign up btn and cancel*/
-#signup,#cancel{
-	background-color:#00ff00;
-	margin-bottom:20px;
-	width:25%;
-	font-size:15px;
-	cursor:pointer;
-	padding:2%;
-	margin-right:8%;
-}
+
