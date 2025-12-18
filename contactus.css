@@ -37,7 +37,8 @@ label{
 }	
 
 input[type="submit"]{
-	margin-left:45%;
+	width:60%;
+	margin-left:25%;
 	margin-bottom:5%;
 	font-style:bold;
 	padding:1%;

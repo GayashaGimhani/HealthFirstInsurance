@@ -7,23 +7,20 @@
 .Containers{
 	
 	width:400px;
-	
-	padding:2rem 5 rem;
-	margin:50px auto;
 	background-color:green;
+    padding:2rem 5 rem;
+	margin:50px auto;
 	border-radius:20px;
 	text-align:center;
 	box-shadow:0 25px 305px rgba(0,0,0,0.1)
-}
 
+}
 
 
 
 .pcontainer{
 	
 	display:flex;
-
-
 }
 
 .pcontainer div{
@@ -39,7 +36,13 @@
     justify-content: center;
     align-items: center;
     padding:10px;
-	background-color:green;					
+	background-color:rgb(183, 187, 152);					
+}
+
+.pcontainer div:hover{
+
+	background-color:rgb(171, 177, 122);
+	
 }
 /*
 #plan1{

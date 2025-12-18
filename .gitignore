@@ -1,0 +1,49 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Java / Maven / Gradle
+target/
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+build/
+
+# Tomcat
+logs/
+temp/
+work/
+
+# PHP
+vendor/
+
+# Database
+*.sql
+*.sqlite
+
+# Cache
+.cache/
+.tmp/
+
+# Others
+*.log

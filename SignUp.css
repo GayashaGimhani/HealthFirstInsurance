@@ -9,11 +9,20 @@
 	font-family:"Poppins",sans-serif;
 	padding:2rem 5 rem;
 	margin:50px auto;
-	background-color:#B2BEB5;
+	background-color:#53aad9;
 	border-radius:20px;
 	text-align:center;
 	box-shadow:5px 15px 15px rgb(79, 77, 77);
 }
+
+body {
+	background-image: url('background.jpeg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+ 
+}
+
 
 #fname,#Email,#userName,#pwd,#cpwd{
 	width:300px;
@@ -65,3 +74,6 @@
  
 }
 
+p{
+	font-size: 15px;
+}
